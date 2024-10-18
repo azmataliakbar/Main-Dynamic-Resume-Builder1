@@ -1,0 +1,19 @@
+{
+  "name": "profile2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resumeBuilder.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.4"
+  },
+  "dependencies": {
+    "html2pdf.js": "^0.10.2"
+  }
+}
