@@ -1,5 +1,9 @@
 // html2pdf.d.ts
-declare var html2pdf: any;
+declare module 'html2pdf.js' {
+  const html2pdf: any;
+  export default html2pdf;
+}
+
 
 
 
